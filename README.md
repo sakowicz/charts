@@ -17,7 +17,7 @@ helm install <release-name> oci://ghcr.io/sakowicz/charts/<chart-name>
 Add the repository:
 
 ```console
-helm repo add sakowicz https://sakowicz.github.io/charts
+helm repo add sakowicz https://charts.sakowi.cz
 helm repo update
 ```
 

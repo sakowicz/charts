@@ -30,7 +30,7 @@ helm install dawarich oci://ghcr.io/sakowicz/charts/dawarich
 ### Traditional
 
 ```console
-helm repo add sakowicz https://sakowicz.github.io/charts
+helm repo add sakowicz https://charts.sakowi.cz
 helm repo update
 helm install dawarich sakowicz/dawarich
 ```
